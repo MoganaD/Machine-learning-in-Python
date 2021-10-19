@@ -1,0 +1,14 @@
+Age,BMI,Gender,Vaccine,Trials,Country,Health
+36,23,Male,Pfizer,4,GERMANY,Normal
+42,29,Female,Pfizer,4,GERMANY,Abnormal
+28,24,Male,Sinovac,4,CHINA,Normal
+52,26,Male,Pfizer,4,GERMANY,Normal
+43,22,Female,Pfizer,4,GERMANY,Normal
+44,19,Female,Sinovac,4,CHINA,Normal
+66,28,Female,AstraZeneca,1,UK,Abnormal
+35,24,Female,AstraZeneca,1,UK,Abnormal
+52,25,Male,AstraZeneca,1,UK,Abnormal
+35,19,Male,AstraZeneca,1,UK,Normal
+28,21,Female,Pfizer,4,GERMANY,Abnormal
+29,20,Female,Sinovac,4,CHINA,Normal
+45,23,Female,Sinovac,4,CHINA,Normal
